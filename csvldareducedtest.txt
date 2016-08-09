@@ -1,0 +1,6 @@
+/home/mano/Desktop/project_attendance/dataset/reduced_dataset/s1/girish.7.jpeg;1
+/home/mano/Desktop/project_attendance/dataset/reduced_dataset/s1/girish.3.jpeg;1
+/home/mano/Desktop/project_attendance/dataset/reduced_dataset/s2/nethra.3.jpeg;2
+/home/mano/Desktop/project_attendance/dataset/reduced_dataset/s2/nethra.17.jpeg;2
+/home/mano/Desktop/project_attendance/dataset/reduced_dataset/s3/anvitha.7.jpeg;3
+/home/mano/Desktop/project_attendance/dataset/reduced_dataset/s3/anvitha.12.jpeg;3
